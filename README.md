@@ -5,7 +5,7 @@ The project was developed for learning and experimentation, with the concepts an
 ## Live Demo
 
 **Web Application:**  
-https://dist-prem-479.vercel.app/#/hash
+https://dist-prem-479.vercel.app/
 
 **GitHub Repository:**  
 https://github.com/prem-479/Blockchain-Demo
