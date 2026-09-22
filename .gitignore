@@ -1,0 +1,14 @@
+# Java compiled files
+*.class
+java/out/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
