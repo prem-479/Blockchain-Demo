@@ -1,5 +1,3 @@
-readme = r"""# Blockchain Demo
-
 A practical implementation of core blockchain concepts using Java and JavaScript. The project provides an interactive web demonstration of hashing, block construction, Proof-of-Work, blockchain linking, distributed peers, token transactions, and Coinbase transactions.
 
 The project was developed for learning and experimentation, with the concepts and module structure studied from the Anders Brownworth Blockchain Demo. The Java and web implementations in this repository were developed separately and validated using shared test vectors.
